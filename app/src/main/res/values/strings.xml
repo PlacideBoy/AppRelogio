@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Relogio</string>
+    <string name="ol">Bom dia</string>
+    <string name="nivel_bateria">Nivel Bateria</string>
+</resources>
